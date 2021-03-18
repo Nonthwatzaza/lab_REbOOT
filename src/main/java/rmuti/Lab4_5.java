@@ -14,14 +14,6 @@ public class Lab4_5 {
                 a++;
             }
         }
-        else
-        {
-            while (a >= b) {
-                aws *= a;
-                a++;
-            }
-        }
-
         System.out.println(aws);
     }
 }
